@@ -1,0 +1,7 @@
+C:\Users\Gita Priede\source\repos\RigaCodingSchool\22Uzd\bin\Debug\22Uzd.exe.config
+C:\Users\Gita Priede\source\repos\RigaCodingSchool\22Uzd\bin\Debug\22Uzd.exe
+C:\Users\Gita Priede\source\repos\RigaCodingSchool\22Uzd\bin\Debug\22Uzd.pdb
+C:\Users\Gita Priede\source\repos\RigaCodingSchool\22Uzd\obj\Debug\22Uzd.csprojAssemblyReference.cache
+C:\Users\Gita Priede\source\repos\RigaCodingSchool\22Uzd\obj\Debug\22Uzd.csproj.CoreCompileInputs.cache
+C:\Users\Gita Priede\source\repos\RigaCodingSchool\22Uzd\obj\Debug\22Uzd.exe
+C:\Users\Gita Priede\source\repos\RigaCodingSchool\22Uzd\obj\Debug\22Uzd.pdb
